@@ -1,0 +1,2 @@
+# Seminario
+Proyecto Estadística Bayesiana
